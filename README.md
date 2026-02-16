@@ -1,37 +1,34 @@
-# Exceeds Group — Company Standards
+# company-standards
 
-This repository defines governance, engineering standards, and operational principles applied across Exceeds Group and its operating companies.
+## Purpose
+This repository defines shared governance, engineering standards, and delivery policies for Exceeds Group and its operating companies.
 
-It exists to ensure consistency, reliability, and long-term maintainability across all initiatives.
-
----
+It is a standards repository, not an application code repository.
 
 ## Scope
-
-These standards apply to:
-
-- Exceeds Group
-- Disboard Software
-- All present and future operating companies
-
----
+This repository applies to:
+- Exceeds Group central engineering and governance functions
+- All operating companies adopting Exceeds Group technical standards
+- New repositories and existing repositories that are brought under governance
 
 ## Core Principles
+- Consistency across repositories and teams
+- Documentation-first delivery and decision traceability
+- Security and compliance by default
+- Reproducible engineering workflows
+- Incremental improvement with controlled exceptions
 
-- Structure over improvisation
-- Documentation-first development
-- Infrastructure as leverage
-- Security as baseline
-- Long-term maintainability
-
----
-
-## Governance Areas
-
-- Organizational governance
-- Engineering standards
-- Versioning and release management
+## What This Repository Defines
+- Governance model and decision cadence
+- Engineering standards and quality expectations
+- Branching, versioning, and release practices
 - Documentation requirements
-- Security baseline
+- Security baseline controls
 
-See individual documents for detailed standards.
+## Status
+- **Active build phase**
+
+## Repository Structure
+- `docs/` - governance and engineering standards
+- `policies/` - mandatory policy baselines
+- `.github/` - issue and pull request templates
