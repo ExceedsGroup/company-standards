@@ -1,4 +1,4 @@
-# company-standards
+# Company Standards
 
 ## Purpose
 This repository defines shared governance, engineering standards, and delivery policies for Exceeds Group and its operating companies.
